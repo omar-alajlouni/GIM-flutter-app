@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "330847021318",
+    "project_id": "greater-irbid-municipali-809e6",
+    "storage_bucket": "greater-irbid-municipali-809e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330847021318:android:f9c6e36cad0231c752d687",
+        "android_client_info": {
+          "package_name": "com.gim.gim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330847021318-apqcplo4v384ic6vvvulbrl5b1dbbsbp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gim.gim",
+            "certificate_hash": "081c06b2466f85cc8a3d82f3ab9bd98515449379"
+          }
+        },
+        {
+          "client_id": "330847021318-hrlfggsjn79p056vpt61r1pnmjea1d3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4O4kf5ZJhUPKnkmD96YmomgqSNdySZMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330847021318-hrlfggsjn79p056vpt61r1pnmjea1d3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
